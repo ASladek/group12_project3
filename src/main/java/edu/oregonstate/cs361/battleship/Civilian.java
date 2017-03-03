@@ -6,8 +6,6 @@ import java.util.ArrayList;
  * Created by Keana on 3/2/2017.
  */
 
-
-
 public class Civilian extends Ship {
 
     public Civilian(String n, int l, Coordinate s, Coordinate e) {
@@ -26,6 +24,7 @@ public class Civilian extends Ship {
                     return;
                 }
             }
+
 
         }
 }
