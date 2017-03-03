@@ -62,7 +62,7 @@ public class Ship {
         sunk = s;
     }
 
-    public boolean getSunk(){
+    public boolean geunk(){
         return sunk;
     }
 
